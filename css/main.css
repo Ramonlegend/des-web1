@@ -1,0 +1,32 @@
+#main {
+  margin: 0 auto;
+  width: 90%;
+}
+h1 {
+  text-align: center;
+}
+#dados-pessoais, #foto{
+  float: left;
+}
+#dados-pessoais{
+  width:  65%;
+}
+#foto {
+  width: 30%;
+  text-align: right;
+}
+#foto img{
+  width: 150px;
+  height: 160px;
+}
+#dados-academicos{
+  clear: both;
+}
+#lista {
+  color: #0000ff;
+}
+.subform{
+  background-color: #ff0;
+  padding: 1%;
+}
+
